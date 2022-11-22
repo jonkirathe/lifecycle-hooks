@@ -2,7 +2,7 @@
 
 
 
-###Learn all about Angular lifecycle hooks that you can use in your angular application
+### Learn all about Angular lifecycle hooks that you can use in your angular application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.0.
 
